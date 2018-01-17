@@ -1,0 +1,11 @@
+{
+  "name": "local-require",
+  "version": "1.0.0",
+  "description": "Overrive every subsequent calls to require and makes them relative to the given path.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MYDIH <mailmydih@gmail.com>",
+  "license": "MIT"
+}
