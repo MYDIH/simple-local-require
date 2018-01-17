@@ -1,5 +1,5 @@
 {
-  "name": "local-require",
+  "name": "simple-local-require",
   "version": "1.0.0",
   "description": "Overrive every subsequent calls to require and makes them relative to the given path.",
   "main": "index.js",
