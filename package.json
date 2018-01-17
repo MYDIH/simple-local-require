@@ -1,11 +1,19 @@
 {
   "name": "simple-local-require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Overrive every subsequent calls to require and makes them relative to the given path.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "MYDIH <mailmydih@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MYDIH/simple-local-require.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MYDIH/simple-local-require/issues"
+  },
+  "homepage": "https://github.com/MYDIH/simple-local-require#readme"
 }
